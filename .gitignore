@@ -1,0 +1,7 @@
+# Keeps track of files to ignore in this repo.
+
+*.zip
+*.7z
+*.log
+
+.DS_Store

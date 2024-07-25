@@ -1,5 +1,3 @@
-# PythonSSC Repo
+# PythonSSF Repo
 
-#### This repo is used to house all my labs for the SSC course.
-
-- [ ] *Students please use this as a refferance, do not plagerize. You have been warned...*
+This repo has all my python labs from learning python basics in my System Scripting Fundamentals (SSF) course.
